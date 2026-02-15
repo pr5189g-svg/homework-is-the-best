@@ -1,0 +1,66 @@
+
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "category": "Puzzle",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "iframeUrl": "https://play2048.co/",
+    "isFeatured": true
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "category": "Arcade",
+    "description": "An addictive puzzle game inspired by Tetris but on a hexagon.",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "iframeUrl": "https://hextris.io/",
+    "isFeatured": true
+  },
+  {
+    "id": "clumsy-bird",
+    "title": "Clumsy Bird",
+    "category": "Arcade",
+    "description": "Flap your wings and avoid the pipes in this challenging arcade game.",
+    "thumbnail": "https://picsum.photos/seed/bird/400/300",
+    "iframeUrl": "https://ellisonleao.github.io/clumsy-bird/",
+    "isFeatured": false
+  },
+  {
+    "id": "tictactoe",
+    "title": "Tic Tac Toe",
+    "category": "Strategy",
+    "description": "The classic game of X and O. Play against the machine!",
+    "thumbnail": "https://picsum.photos/seed/ttt/400/300",
+    "iframeUrl": "https://playtictactoe.org/",
+    "isFeatured": false
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "category": "Arcade",
+    "description": "Munch on dots and dodge ghosts in this timeless classic.",
+    "thumbnail": "https://picsum.photos/seed/pacman/400/300",
+    "iframeUrl": "https://macek.github.io/google_pacman/",
+    "isFeatured": true
+  },
+  {
+    "id": "snake",
+    "title": "Snake Game",
+    "category": "Arcade",
+    "description": "Classic snake game. Grow longer by eating apples.",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "iframeUrl": "https://patorjk.com/games/snake/",
+    "isFeatured": false
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris JS",
+    "category": "Puzzle",
+    "description": "Stack blocks and clear lines in this minimalist Tetris clone.",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "iframeUrl": "https://chvin.github.io/react-tetris/",
+    "isFeatured": true
+  }
+]
